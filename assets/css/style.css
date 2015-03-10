@@ -1,0 +1,26 @@
+body{
+
+	background-image: url(../img/background-photo.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #464646;
+
+	font-family: 'PT Sans', sans-serif;
+}
+h1{
+	padding: 0;
+	margin: 0;
+}
+h1{font-size:22px;letter-spacing:1px;}
+.container{
+	width: 820px;
+	height: 413px;
+	margin: 8% auto;
+}
+.title,.logo{float:left}
+.title,.logo{height:96px}
+.banner,.title{width:575px}
+.title{background-color:#ec2028;color:white;margin-right:5px}
+.logo{background-color:white;}
